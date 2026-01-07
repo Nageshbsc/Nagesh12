@@ -107,7 +107,7 @@ This project helps beginners learn how to analyze medical data and understand ri
 
 ## 👤 Author
 
-**Nagesh Kalyankarr**
+**Nagesh Kalyankar**
 
 ---
 
